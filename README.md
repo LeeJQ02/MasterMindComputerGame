@@ -52,13 +52,15 @@ Simply ensure you have Python installed on your system.
 
 ## Usage
 
-1. Download the Python script (`mastermind_game.py`) to your local machine.
-2. Open an IDE that support Python language and simply run it.
-
-1. Download the Python script (`mastermind_game.py`) to your local machine.   
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the script is located.
-4. Run the script using the following command:
+1. Using an IDE.
+   1. Download the Python script (`mastermind_game.py`) to your local machine.
+   2. Open an IDE that support Python language and simply run it.
+      
+2. Using a terminal or command prompt.
+   1. Download the Python script (`mastermind_game.py`) to your local machine.   
+   2. Open a terminal or command prompt.
+   3. Navigate to the directory where the script is located.
+   4. Run the script using the following command:
    ```
    python mastermind_game.py
    ```
